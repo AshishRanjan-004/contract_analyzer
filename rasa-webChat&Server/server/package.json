@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "forever": "^1.0.0",
+    "form-data": "^2.5.0",
+    "formidable": "^1.2.1",
+    "node-fetch": "^2.6.0",
+    "pdf-to-text": "0.0.7",
+    "textract": "^2.5.0"
+  }
+}
